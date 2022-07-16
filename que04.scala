@@ -1,4 +1,4 @@
-object coppy extends App {
+object copy extends App {
 
     def coverPrice(n:Int):Double = n * 24.95
 

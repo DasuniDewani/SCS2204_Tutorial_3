@@ -1,4 +1,4 @@
-import scala.compiletime.ops.float
+
 object RunningTime extends App{
     def easyPace(n:Float ):Float = n * 8
 
