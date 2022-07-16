@@ -1,0 +1,1003 @@
+2022.07.16 12:34:44 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\.metals\lsp.trace.json or C:\Users\Asus\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.16 12:34:47 INFO  logging to file D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\.metals\metals.log
+2022.07.16 12:34:47 INFO  Started: Metals version 0.11.7 in workspace 'D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)' for client Visual Studio Code 1.69.1.
+2022.07.16 12:34:48 INFO  time: initialize in 1.55s
+2022.07.16 12:34:48 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.16 12:34:48 WARN  Build server is not auto-connectable.
+2022.07.16 12:34:48 WARN  no build tool detected in workspace 'D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.16 12:34:51 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:34:51 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:34:58 INFO  no build target found for D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.07.16 12:35:01 INFO  time: code lens generation in 9.82s
+2022.07.16 12:35:01 INFO  time: code lens generation in 9.82s
+2022.07.16 12:35:02 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 12:35:17 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 12:35:29 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 12:35:53 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:35:57 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:36:08 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:36:11 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:36:12 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:36:15 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:36:16 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:36:19 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:36:24 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:37:24 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:37:28 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:37:32 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:37:42 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:37:44 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:37:54 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:37:55 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:37:57 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:37:59 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:38:02 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:38:29 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:38:30 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:38:32 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:38:33 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:38:35 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:38:38 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:38:40 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:38:41 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:38:57 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:39:00 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:39:04 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:39:21 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:39:23 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:39:24 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:39:26 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:40:12 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:40:13 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:40:17 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:40:19 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:40:23 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:40:24 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:40:25 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:40:27 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:40:29 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:40:30 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:40:33 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:40:35 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:40:38 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:40:39 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:40:43 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:40:53 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:40:55 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:40:57 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:40:59 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:41:00 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:42:01 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:42:02 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:42:52 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:42:54 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:42:56 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:43:01 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:43:48 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+Jul 16, 2022 12:43:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException: No build target could be found for the path: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+java.util.concurrent.CompletionException: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException: No build target could be found for the path: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:747)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+	at java.base/java.util.concurrent.CompletableFuture.thenAcceptAsync(CompletableFuture.java:2186)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.thenAccept(FutureConvertersImpl.scala:37)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:279)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException: No build target could be found for the path: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+	at scala.meta.internal.metals.debug.DebugProvider.debugDiscovery(DebugProvider.scala:398)
+	at scala.meta.internal.metals.MetalsLanguageServer.executeCommand(MetalsLanguageServer.scala:1882)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	... 9 more
+
+2022.07.16 12:45:12 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:45:15 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:45:18 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:45:20 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:45:22 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:45:24 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:46:04 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:46:19 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:46:58 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:47:03 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:47:04 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 12:47:52 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:48:16 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:48:19 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:48:20 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:48:22 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:48:25 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:48:26 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:48:28 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:48:32 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:48:37 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:48:47 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:48:49 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:49:27 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:49:29 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:49:34 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:49:36 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:49:39 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:49:41 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:49:43 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:49:44 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:49:48 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:49:50 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:49:53 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:49:54 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:50:01 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:50:02 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:50:08 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:50:10 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:50:13 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:50:14 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:50:25 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:50:27 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:50:35 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:50:38 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:50:46 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:50:50 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:50:54 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:50:56 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:51:37 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:51:38 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:51:40 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:51:51 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:51:53 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:51:59 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:53:35 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:53:41 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:53:43 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:53:48 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:53:50 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:53:52 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:53:53 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:53:54 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:53:57 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:54:27 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:54:31 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:54:31 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:54:32 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:54:34 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:54:37 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:54:48 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:56:34 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:56:38 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 12:56:58 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:40:17 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:40:18 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:40:21 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:40:29 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:40:34 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:40:36 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:40:38 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:40:41 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:40:47 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:40:48 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:40:56 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:40:58 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:41:01 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:41:05 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:41:09 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:41:09 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:41:11 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:41:12 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:41:16 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:41:20 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:41:23 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:41:27 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:41:30 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:41:33 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:41:35 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:41:36 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:41:39 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:41:41 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:41:43 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:41:48 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:41:51 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:41:53 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:41:55 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:41:57 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:41:59 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:42:02 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:42:03 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:42:04 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:42:09 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:42:13 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:42:21 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:42:23 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:42:27 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:42:30 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:43:10 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 15:43:43 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:44:21 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:44:23 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:44:25 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:44:34 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:44:41 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:44:42 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:46:15 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:46:16 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:46:20 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:46:23 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:46:24 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:46:32 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:46:35 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:46:37 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:46:43 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:46:45 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:46:46 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:46:51 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:46:52 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:46:54 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:46:58 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:47:00 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:47:01 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:47:03 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:47:05 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:47:08 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:47:14 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:47:16 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:47:17 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:47:23 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:47:44 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:47:47 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:47:49 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:47:53 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:47:55 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:48:00 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:48:03 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:48:08 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:48:10 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:48:11 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:48:15 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:48:16 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:48:17 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:48:20 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:48:40 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:48:42 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:48:48 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:48:52 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:48:54 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:48:56 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:49:00 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:49:02 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:49:03 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:49:05 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:49:08 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:49:10 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:49:11 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:49:20 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:49:22 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:49:24 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:49:29 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:49:54 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:49:56 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:50:03 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:50:05 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:50:15 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:50:21 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:50:30 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:50:33 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:50:35 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:50:37 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:50:38 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:50:40 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:50:44 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:50:46 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:50:50 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:51:16 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:51:16 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:51:21 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:51:22 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:51:26 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:51:32 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:51:45 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:52:04 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:52:08 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:52:13 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:52:15 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:52:18 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:52:24 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:52:28 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:52:29 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:52:32 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:52:35 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:52:38 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:52:58 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:52:59 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:53:00 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:53:04 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:53:07 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:53:09 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:53:10 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:53:13 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:53:15 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:53:19 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:53:21 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:53:22 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:53:24 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:53:26 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:53:27 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:53:30 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:53:32 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:53:37 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:53:40 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:53:56 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:54:09 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:54:12 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:55:07 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:55:17 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:55:20 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:55:24 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:55:30 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:55:33 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:55:42 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:55:46 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:55:53 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:56:00 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:56:01 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:56:03 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:56:04 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:56:06 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:56:18 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:56:25 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:56:35 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:56:37 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:56:38 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:56:40 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:56:46 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:56:51 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:56:54 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:56:58 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:57:05 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:57:12 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:57:13 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:57:17 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:57:18 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:57:21 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:57:31 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:57:32 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:57:34 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:57:38 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:57:39 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:57:40 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:57:55 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:58:00 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+Jul 16, 2022 3:58:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: file:///D:/Academic/second_yr/first_sem/SCS2204-FUNCTIONAL%20PROGRAMMING/Assignments/scala_Assignment(3)/que04.scala:16: error: unclosed string interpolation
+        print("total wholesale cost for 60 "copies")
+                                                   ^
+java.util.concurrent.CompletionException: file:///D:/Academic/second_yr/first_sem/SCS2204-FUNCTIONAL%20PROGRAMMING/Assignments/scala_Assignment(3)/que04.scala:16: error: unclosed string interpolation
+        print("total wholesale cost for 60 "copies")
+                                                   ^
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: file:///D:/Academic/second_yr/first_sem/SCS2204-FUNCTIONAL%20PROGRAMMING/Assignments/scala_Assignment(3)/que04.scala:16: error: unclosed string interpolation
+        print("total wholesale cost for 60 "copies")
+                                                   ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringPart(LegacyScanner.scala:696)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:391)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:410)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:245)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.acceptBalancedDelimeters(ScalaToplevelMtags.scala:274)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:50)
+	at scala.meta.internal.mtags.MtagsIndexer.index(MtagsIndexer.scala:19)
+	at scala.meta.internal.mtags.MtagsIndexer.index$(MtagsIndexer.scala:18)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.index(ScalaToplevelMtags.scala:40)
+	at scala.meta.internal.mtags.Mtags$.allToplevels(Mtags.scala:96)
+	at scala.meta.internal.metals.DefinitionProvider.fromMtags(DefinitionProvider.scala:269)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$3(DefinitionProvider.scala:202)
+	at scala.Option.orElse(Option.scala:477)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$positionOccurrence$1(DefinitionProvider.scala:202)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.DefinitionProvider.positionOccurrence(DefinitionProvider.scala:197)
+	at scala.meta.internal.metals.DocumentHighlightProvider.$anonfun$documentHighlight$1(DocumentHighlightProvider.scala:33)
+	at scala.collection.immutable.List.map(List.scala:246)
+	at scala.meta.internal.metals.DocumentHighlightProvider.documentHighlight(DocumentHighlightProvider.scala:29)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$documentHighlights$1(MetalsLanguageServer.scala:1480)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2022.07.16 15:58:04 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:58:06 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:58:09 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:58:11 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:58:12 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:58:16 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:58:17 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:58:20 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:58:24 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:58:26 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:58:38 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:58:41 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:58:44 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:58:45 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:58:47 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:58:49 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:58:50 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:59:05 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:59:07 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:59:08 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:59:09 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:59:12 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 15:59:18 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:00:06 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:00:13 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:00:38 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:01:10 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:02:45 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:02:49 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:02:54 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:03:01 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:03:02 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:03:08 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:03:10 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:03:11 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:03:12 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:04:05 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:07:36 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:07:37 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:07:45 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:07:48 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:07:51 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:07:51 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:07:56 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:08:00 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:08:02 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:08:03 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:08:05 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:08:08 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:08:09 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:08:15 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:08:18 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:08:21 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:08:25 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:08:32 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:08:40 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:08:43 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:08:46 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:08:49 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:08:52 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:08:54 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:08:56 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:08:58 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:09:01 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:09:05 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:09:08 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:09:10 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:09:12 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:09:15 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:09:17 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:10:21 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:10:21 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:12:50 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:12:53 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:12:55 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:12:58 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:13:00 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:13:04 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:13:05 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:13:09 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+Jul 16, 2022 4:15:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4597
+2022.07.16 16:16:02 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:16:04 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:16:06 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:16:13 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:16:20 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:16:22 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:17:16 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:17:18 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:17:20 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:18:27 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:18:28 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:18:36 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:18:40 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:18:54 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:18:56 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:19:04 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:19:26 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:19:35 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:19:52 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+Jul 16, 2022 4:21:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4843
+2022.07.16 16:21:16 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:21:17 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:21:31 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:21:36 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:21:38 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:21:45 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:21:48 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:21:53 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:21:54 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:21:57 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:21:59 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:22:03 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:22:04 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:22:11 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:22:13 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:22:17 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:22:22 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:22:24 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:22:28 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:22:33 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:22:37 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:22:43 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:22:48 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 16:23:32 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 16:23:54 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 19:36:17 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:53:11 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:53:12 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:53:30 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:53:33 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:53:39 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:53:41 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:53:45 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:53:46 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:53:50 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:53:51 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:53:54 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:53:56 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:54:00 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:54:04 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:54:12 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:54:15 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:54:16 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:54:18 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:54:35 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:54:37 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:54:42 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:54:44 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:54:47 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:54:51 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:54:57 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:55:00 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:55:02 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:55:04 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:57:53 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:57:55 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:57:57 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:57:58 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:58:00 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:58:03 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:58:06 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:58:10 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:59:03 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:59:30 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:59:32 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:59:35 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:59:39 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:59:41 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:59:43 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:59:46 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:59:47 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:59:49 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:59:50 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:59:51 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:59:53 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:59:55 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:59:57 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 19:59:59 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+Jul 16, 2022 8:00:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5875
+Jul 16, 2022 8:00:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5876
+Jul 16, 2022 8:00:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5879
+2022.07.16 20:00:03 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:00:04 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:15:45 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:15:57 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:16:00 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:16:03 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:16:04 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:16:08 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:16:11 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:16:13 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:16:19 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:16:21 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:16:25 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:16:30 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:16:32 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:16:59 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:17:01 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:17:02 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:17:37 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:17:38 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:18:37 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:18:38 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:18:43 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:18:45 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:18:56 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:18:56 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:19:16 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:19:55 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:19:57 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:20:00 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:20:02 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:22:00 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:22:02 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:22:04 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:22:06 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:22:08 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:22:10 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:22:12 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:22:14 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:22:19 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:22:22 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:22:24 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:22:39 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:22:47 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:22:48 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:22:54 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:22:59 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:23:00 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:23:03 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:23:05 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:23:07 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:23:27 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:23:30 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:23:33 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:23:36 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:23:43 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:23:45 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:23:46 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:23:50 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:23:54 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:23:56 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:23:59 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:24:00 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:24:05 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:24:14 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:24:16 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:24:25 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:24:28 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:24:30 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:24:34 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:24:36 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:24:37 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:24:42 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:24:43 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:24:45 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:25:01 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:25:03 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:25:23 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:25:27 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:25:36 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:25:47 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:25:48 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:26:22 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:26:24 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:27:18 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:27:21 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:27:24 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:27:26 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:27:28 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:27:32 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:27:36 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:27:38 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:27:41 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:27:45 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:27:48 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:28:21 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:28:23 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:28:33 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:28:49 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:30:46 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 20:48:09 INFO  shutting down Metals
+2022.07.16 21:12:54 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at d:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\.metals\lsp.trace.json or C:\Users\Asus\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.07.16 21:12:55 INFO  logging to file D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\.metals\metals.log
+2022.07.16 21:12:55 INFO  Started: Metals version 0.11.7 in workspace 'D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)' for client Visual Studio Code 1.69.1.
+2022.07.16 21:12:56 INFO  time: initialize in 1.02s
+2022.07.16 21:12:56 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.07.16 21:12:56 WARN  Build server is not auto-connectable.
+2022.07.16 21:12:56 WARN  no build tool detected in workspace 'D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.07.16 21:12:59 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 21:13:02 INFO  no build target found for D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.07.16 21:13:04 INFO  time: code lens generation in 5.07s
+2022.07.16 21:13:04 INFO  time: code lens generation in 5.07s
+2022.07.16 21:13:05 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:13:23 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:14:52 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:14:53 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:14:59 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:15:02 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:15:03 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:15:10 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:15:12 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:15:14 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:15:20 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:15:22 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:15:25 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:15:26 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:15:28 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:15:32 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:15:35 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:15:38 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:15:41 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:15:43 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:15:48 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:15:50 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:15:52 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:15:53 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:15:59 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:16:01 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:16:02 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:16:07 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:16:09 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:16:12 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:16:16 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que01.scala
+2022.07.16 21:17:22 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:17:47 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:17:57 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:18:01 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:18:07 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:18:09 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:18:13 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:18:20 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:18:23 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:18:27 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:18:30 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:18:30 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:18:33 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:18:36 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:18:37 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:18:39 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:18:42 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:18:45 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+Jul 16, 2022 9:18:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 677
+Jul 16, 2022 9:18:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 676
+2022.07.16 21:18:48 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:18:51 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:18:53 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:18:57 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:19:00 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:19:03 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:19:07 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:19:10 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:19:13 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:19:18 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:19:21 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:19:25 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:19:27 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:19:28 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:19:32 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:19:33 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:19:39 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:19:45 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:19:49 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:19:59 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:20:06 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:20:09 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:20:12 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:20:17 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:20:18 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:20:27 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:20:48 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:20:51 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:20:52 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:20:54 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:20:59 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:21:06 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:21:13 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que02.scala
+2022.07.16 21:22:04 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:22:28 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:22:32 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:22:39 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:22:49 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:22:52 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:22:55 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:22:57 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:23:02 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:23:31 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:23:32 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:23:36 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:23:36 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:23:38 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:23:40 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:23:42 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:23:45 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:23:47 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:23:52 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:23:53 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:23:56 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:24:00 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:24:03 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:24:07 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:24:14 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:24:15 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:24:21 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:24:38 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:24:42 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:24:43 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:24:46 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:24:50 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:24:51 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que03.scala
+2022.07.16 21:25:46 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:32:00 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:32:08 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:32:10 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:32:11 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:32:13 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:34:10 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:34:13 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:34:15 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:34:17 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:34:21 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:34:23 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:34:25 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:34:28 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:34:36 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:34:37 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:34:39 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:34:40 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:34:42 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:34:44 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:34:55 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:34:57 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:35:00 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:36:59 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:37:00 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:37:02 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:37:05 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:37:06 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:37:53 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:37:54 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:37:56 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:38:03 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:38:06 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:38:07 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:38:11 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:38:12 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:38:25 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:38:27 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:38:31 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:38:33 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:38:35 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:38:47 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:38:50 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:38:51 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:39:16 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:39:23 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:39:24 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:39:49 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:39:51 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:42:23 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:42:26 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:43:38 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:43:41 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:43:42 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:44:05 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:44:29 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:44:31 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+Jul 16, 2022 9:44:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2357
+2022.07.16 21:44:57 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:45:54 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:48:07 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:48:09 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:48:10 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 21:48:12 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:02:38 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:03:29 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:03:45 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:03:47 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:03:50 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:03:53 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:04:00 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:04:02 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:04:07 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:04:09 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:04:12 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:04:14 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:05:06 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:05:12 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:05:20 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:05:22 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:05:25 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:05:41 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:05:45 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:05:47 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:05:49 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:05:51 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:05:55 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:06:06 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:06:12 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:06:14 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:06:40 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:06:43 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:06:49 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:06:53 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:06:58 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:07:04 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:07:12 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:07:30 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:08:21 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:08:28 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:08:41 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:08:44 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:08:45 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:08:47 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que04.scala
+2022.07.16 22:12:02 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:12:04 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:12:07 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:12:17 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:12:19 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:12:22 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:12:29 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:13:07 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:13:18 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:13:26 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:13:27 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:13:28 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:13:38 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:13:39 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:13:49 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:13:53 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:13:56 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:14:20 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:14:24 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:14:31 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:14:32 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:14:41 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:14:45 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:14:50 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:14:51 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:14:52 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:15:01 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:15:04 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:15:05 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:15:09 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:15:10 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:15:12 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:15:13 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:15:33 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:15:35 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:15:39 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:15:42 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:15:48 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:15:53 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:15:55 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:16:01 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:16:03 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:16:05 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:16:06 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:16:08 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:16:18 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:16:25 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:16:27 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
+2022.07.16 22:16:29 WARN  no build target for: D:\Academic\second_yr\first_sem\SCS2204-FUNCTIONAL PROGRAMMING\Assignments\scala_Assignment(3)\que05.scala
